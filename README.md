@@ -1,4 +1,4 @@
-# BenchMarck split string
+# BenchMark split string
 ## From [Bart Fillipec] articles
 
 In the file CmakeLists.txt in BenchSplit, use your directory where [GoogleBenchmark] is located
