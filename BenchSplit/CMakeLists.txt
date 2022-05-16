@@ -1,0 +1,6 @@
+project(benchsplit_bench)
+set(BenchDir c:/GoogleBench)
+add_subdirectory(${BenchDir} GoogleBench)
+add_executable(benchsplit_bench_run splitbench.cpp)
+target_link_libraries(benchsplit_bench_run splitlib_lib)
+target_link_libraries(benchsplit_bench_run benchmark::benchmark)
