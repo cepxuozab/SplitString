@@ -1,6 +1,3 @@
-# SplitString
-BenchMark some split string.
-
-In CmakeLists bench use own directory 
-set(BenchDir c:/GoogleBench) - change to 
-for GoogleBench https://github.com/google/benchmark
+# BenchMarck split string
+## From [Bart Fillipec] articles
+   [Bart Fillipec]: <https://www.cppstories.com/2018/07/string-view-perf/>
